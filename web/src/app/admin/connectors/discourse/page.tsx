@@ -77,7 +77,7 @@ const Main = () => {
       {popup}
       <Text>
         This connector allows you to sync all your Discourse Topics into
-        Techpeek AI. More details on how to setup the Discourse connector can be
+        LexPort Insight. More details on how to setup the Discourse connector can be
         found in{" "}
         <a
           className="text-link"
