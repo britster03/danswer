@@ -49,8 +49,8 @@ export default function Page() {
       />
 
       <Text>
-        Connect Techpeek AI to your organization&apos;s knowledge sources.
-        We&apos;ll automatically sync your data into Techpeek AI, so you can find
+        Connect LexPort Insight to your organization&apos;s knowledge sources.
+        We&apos;ll automatically sync your data into LexPort Insight, so you can find
         exactly what you&apos;re looking for in one place.
       </Text>
 
