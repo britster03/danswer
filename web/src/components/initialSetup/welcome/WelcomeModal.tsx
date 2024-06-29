@@ -115,7 +115,7 @@ export function _WelcomeModal({ user }: { user: User | null }) {
             </Text>
             <div>
               <Text>
-                Connectors are the way that Techpeek AI gets data from your
+                Connectors are the way that LexPort Insight gets data from your
                 organization&apos;s various data sources. Once setup, we&apos;ll
                 automatically sync data from your apps and docs into Techpeek AI, so
                 you can search through all of them in one place.
@@ -219,7 +219,7 @@ export function _WelcomeModal({ user }: { user: User | null }) {
       body = (
         <>
           <div>
-            <Text>How are you planning on using Techpeek AI?</Text>
+            <Text>How are you planning on using LexPort Insight?</Text>
           </div>
           <Divider />
           <UsageTypeSection
