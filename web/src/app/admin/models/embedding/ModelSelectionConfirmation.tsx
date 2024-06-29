@@ -19,7 +19,7 @@ export function ModelSelectionConfirmaion({
       </Text>
       <Text className="text-lg mb-2">
         We will re-index all your documents in the background so you will be
-        able to continue to use Techpeek AI as normal with the old model in the
+        able to continue to use LexPort Insight as normal with the old model in the
         meantime. Depending on how many documents you have indexed, this may
         take a while.
       </Text>
