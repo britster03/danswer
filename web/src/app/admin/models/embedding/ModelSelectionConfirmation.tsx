@@ -26,7 +26,7 @@ export function ModelSelectionConfirmaion({
       <Text className="text-lg mb-2">
         <i>NOTE:</i> this re-indexing process will consume more resources than
         normal. If you are self-hosting, we recommend that you allocate at least
-        16GB of RAM to Techpeek AI during this process.
+        16GB of RAM to LexPort Insight during this process.
       </Text>
 
       {isCustom && (
