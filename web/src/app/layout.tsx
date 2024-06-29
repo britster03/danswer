@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "Techpeek AI",
+  title: "LexPort Insight",
   description: "Question answering for your documents",
 };
 
