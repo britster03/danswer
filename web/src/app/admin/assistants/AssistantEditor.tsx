@@ -420,7 +420,7 @@ export function AssistantEditor({
                               {user?.role !== "admin" && (
                                 <>
                                   If this functionality would be useful, reach
-                                  out to the administrators of Techpeek AI for
+                                  out to the administrators of LexPort Insight for
                                   assistance.
                                 </>
                               )}
